@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Dhutmal</h1>
-<h3 align="center">A passionate Powerapps Devloper from India</h3>
+<h3 align="center">A passionate Power Platform Devloper along with Python and data science expertise from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadhutmal&label=Profile%20views&color=0e75b6&style=flat" alt="adityadhutmal" /> </p>
 
